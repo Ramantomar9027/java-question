@@ -6,8 +6,6 @@ public class PetyaAndString {
 
         String s1 = sc.nextLine();
         String s2 = sc.nextLine();
-
-        // Convert both to lowercase (case-insensitive comparison)
         s1 = s1.toLowerCase();
         s2 = s2.toLowerCase();
 
